@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rain">
+  <defs>
+    <linearGradient id="rain-favicon-gradient" x1="10" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#rain-favicon-gradient)"/>
+  <path d="M21 47V17h14.5c6.8 0 11.2 3.9 11.2 9.9 0 4.2-2.2 7.4-5.9 8.9L48 47h-8.8l-6.2-9.9h-4.4V47H21Zm7.6-16.1h6.2c2.8 0 4.5-1.4 4.5-3.8s-1.7-3.8-4.5-3.8h-6.2v7.6Z" fill="#ffffff"/>
+</svg>
